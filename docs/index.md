@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "My Blog on ITRen."
-  text: "A Blog from WangWei."
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: "WangWei's Blog"
+  text: "随便写写，慢慢看看～"
+  tagline: 
+#  actions:
+#    - theme: brand
+#      text: Markdown Examples
+#      link: /markdown-examples
+#    - theme: alt
+#      text: API Examples
+#      link: /api-examples
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

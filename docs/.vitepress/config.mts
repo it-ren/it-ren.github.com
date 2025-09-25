@@ -1,12 +1,10 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-CN',
-  title: "My Blog on ITRen.",
-  description: "A Blog from WangWei.",
+  title: "WangWei's Blog.",
+  description: "随便写写，慢慢看看～",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
@@ -23,7 +21,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/https://github.com/it-ren/it-ren.github.com' }
+      { icon: 'github', link: 'https://github.com/wangwii' }
     ]
   }
 })
