@@ -22,6 +22,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wangwii' }
-    ]
+    ],
+
+    footer: {
+      message: '本站所有内容均采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">知识共享 署名-相同方式共享 4.0 协议</a>.',
+      copyright: 'Copyright © 2025-present <a href="https://github.com/wangwii" target="_blank">WangWei</a>',
+    },
   }
 })
