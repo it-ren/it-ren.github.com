@@ -1,0 +1,6 @@
+tmp
+.idea
+.DS_Store
+node_modules
+
+docs/.vitepress/cache
