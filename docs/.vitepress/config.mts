@@ -7,15 +7,16 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'AI LLMs', link: '/ai-learn' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'AI LLMs',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'AI Agent 构建方法概述', link: '/ai-learn/ai-agent构建方法及技术' },
+          { text: '从提示词到上下文工程', link: '/ai-learn/从提示词到上下文工程' },
+          { text: '提示链模式概述', link: '/ai-learn/prompt-chaining-pattern-overview' },
         ]
       }
     ],
