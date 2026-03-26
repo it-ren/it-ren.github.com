@@ -18,6 +18,7 @@ npm run build
   * https://www.baihezi.com/tech/ssh/basic.html
 
 ## TODO for features
+* [] 付费支持
 * [] 添加分类
 * [] 添加评论
 * [] 用户计数
